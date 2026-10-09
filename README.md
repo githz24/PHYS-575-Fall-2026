@@ -1,2 +1,2 @@
-# my-really-first-repo
-This is an awesome repo
+
+This is for lab report
